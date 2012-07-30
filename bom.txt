@@ -1,0 +1,35 @@
+refdes	refdes	device	value	
+J11	J11	2choice	unknown	
+J10	J10	v-breakout	unknown	
+J8	J8	ext-vreg	unknown	
+J9	J9	v-breakout	unknown	
+J7	J7	vin	unknown	
+C12	C12	CAPACITOR	0.1 uF	
+C11	C11	POLARIZED_CAPACITOR	100 uF	
+U4	U4	7805	unknown	
+R1	R1	RESISTOR	1 k	
+D2	D2	DIODE	unknown	
+C10	C10	CAPACITOR	0.1 uF	
+C9	C9	POLARIZED_CAPACITOR	10 uF	
+J6	J6	HEADER6	unknown	
+D3	D3	DIODE	unknown	
+R3	R3	RESISTOR	1 k	
+D1	D1	DIODE	unknown	
+J3	J3	unknown	unknown	
+J1	J1	unknown	unknown	
+C8	C8	CAPACITOR	0.1 uF	
+C7	C7	CAPACITOR	0.1 uF	
+C6	C6	CAPACITOR	0.1 uF	
+CONN2	CONN2	CONNECTOR_6	unknown	
+U2	U2	7805	unknown	
+C3	C3	POLARIZED_CAPACITOR	100 uF	
+CONN1	CONN1	PWRJACK	unknown	
+J2	J2	HEADER6	unknown	
+S1	S1	SWITCH_PUSHBUTTON_NO	unknown	
+C5	C5	CAPACITOR	18 pF	
+C4	C4	CAPACITOR	18 pF	
+U3	U3	unknown	16 MHz	
+R2	R2	RESISTOR	10 k	
+J5	J5	unknown	unknown	
+J4	J4	unknown	unknown	
+U1	U1	ATMEGA328P-PDIP	unknown	

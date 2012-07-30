@@ -1,0 +1,24 @@
+The RoboBrrd Brain board is based off of the Arduino Uno R3 by the Arduino team. It's a really cool board that is a lot of fun, you can find out more about it here:
+http://arduino.cc
+
+We looked at the Diavolino by Evil Mad Science a lot for making the RoboBrrd Brain Board as theirs was created in gEDA too. The Diavolino information can be found here:
+http://evilmadscience.com/productsmenu/tinykitlist/180
+http://www.evilmadscientist.com/2010/diavolino/
+
+For some of the symbols and footprints in the schematic and pcb files, we used Matt Pandina's version. You can see his .sym's & .fp's in src.zip here:
+https://sites.google.com/site/artcfox/demystifying-the-tlc5940
+
+For some other symbols and footprints, they were from gEDA Symbols. A variety of these were used, and the authour information should be within their footprint or symbol. Check out gEDA Symbols here:
+http://gedasymbols.org
+
+For our voltage regulator circuit, we looked at the Menta design from Adafruit Industries. Especially the 3.3V regulator section of the circuit and the capacitors. Here is where you can find out more about the Menta:
+http://www.adafruit.com/products/795
+https://github.com/adafruit/Adafruit-Menta
+
+The first few prototypes of the RoboBrrd Brain Board v2 were fabbed at the OSH Park! Their boards are purple and gold, and it's a great service. Check it out here: 
+http://www.oshpark.com
+
+The medium sized OSHW logo on the board is from the gEDA format of logos that Windell Oskay made. You can find all the logos here:
+http://oshwlogo.com/
+
+Finally, credit to the whole maker community for being fun, cool, and helpful with answering questions & learning more!

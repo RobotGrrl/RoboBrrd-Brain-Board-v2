@@ -1,0 +1,118 @@
+v 20110115 2
+P 0 2900 500 2900 1 0 0
+{
+T 0 2900 5 10 0 0 0 0 1
+pintype=unknown
+T 555 2895 5 10 1 1 0 0 1
+pinlabel=D8
+T 405 2945 5 10 1 1 0 6 1
+pinnumber=1
+T 0 2900 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2600 500 2600 1 0 0
+{
+T 0 2600 5 10 0 0 0 0 1
+pintype=unknown
+T 555 2595 5 10 1 1 0 0 1
+pinlabel=D9
+T 405 2645 5 10 1 1 0 6 1
+pinnumber=2
+T 0 2600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2300 500 2300 1 0 0
+{
+T 0 2300 5 10 0 0 0 0 1
+pintype=unknown
+T 555 2295 5 10 1 1 0 0 1
+pinlabel=D10
+T 405 2345 5 10 1 1 0 6 1
+pinnumber=3
+T 0 2300 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2000 500 2000 1 0 0
+{
+T 0 2000 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1995 5 10 1 1 0 0 1
+pinlabel=D11
+T 405 2045 5 10 1 1 0 6 1
+pinnumber=4
+T 0 2000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1700 500 1700 1 0 0
+{
+T 0 1700 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1695 5 10 1 1 0 0 1
+pinlabel=D12
+T 405 1745 5 10 1 1 0 6 1
+pinnumber=5
+T 0 1700 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1400 500 1400 1 0 0
+{
+T 0 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1395 5 10 1 1 0 0 1
+pinlabel=D13
+T 405 1445 5 10 1 1 0 6 1
+pinnumber=6
+T 0 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1100 500 1100 1 0 0
+{
+T 0 1100 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1095 5 10 1 1 0 0 1
+pinlabel=GND
+T 405 1145 5 10 1 1 0 6 1
+pinnumber=7
+T 0 1100 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 800 500 800 1 0 0
+{
+T 0 800 5 10 0 0 0 0 1
+pintype=unknown
+T 555 795 5 10 1 1 0 0 1
+pinlabel=AREF
+T 405 845 5 10 1 1 0 6 1
+pinnumber=8
+T 0 800 5 10 0 0 0 0 1
+pinseq=0
+}
+B 500 0 700 3200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 595 3300 8 10 1 1 0 0 1
+refdes=J?
+T -5 0 8 10 0 1 0 0 1
+footprint=JUMPER8_NO1
+P 0 500 500 500 1 0 0
+{
+T 0 500 5 10 0 0 0 0 1
+pintype=unknown
+T 555 495 5 10 1 1 0 0 1
+pinlabel=SDA
+T 405 545 5 10 1 1 0 6 1
+pinnumber=9
+T 0 500 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 200 500 200 1 0 0
+{
+T 0 200 5 10 0 0 0 0 1
+pintype=unknown
+T 555 195 5 10 1 1 0 0 1
+pinlabel=SCL
+T 405 245 5 10 1 1 0 6 1
+pinnumber=10
+T 0 200 5 10 0 0 0 0 1
+pinseq=0
+}
+T 2700 2600 8 10 0 1 0 0 1
+footprint=header-10
